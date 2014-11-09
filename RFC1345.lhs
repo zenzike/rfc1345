@@ -2035,18 +2035,12 @@ Summary
  y+,    fef2    ARABIC LETTER YEH INITIAL FORM
  y+;    fef3    ARABIC LETTER YEH MEDIAL FORM
  y+.    fef4    ARABIC LETTER YEH FINAL FORM
- lM-    fef5    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE
-                ISOLATED FORM
- lM.    fef6    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE
-                FINAL FORM
- lH-    fef7    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE
-                ISOLATED FORM
- lH.    fef8    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE
-                FINAL FORM
- lh-    fef9    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW
-                ISOLATED FORM
- lh.    fefa    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW
-                FINAL FORM
+ lM-    fef5    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM
+ lM.    fef6    ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM
+ lH-    fef7    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM
+ lH.    fef8    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM
+ lh-    fef9    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM
+ lh.    fefa    ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM
  la-    fefb    ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
  la.    fefc    ARABIC LIGATURE LAM WITH ALEF FINAL FORM
  NU     0000    NULL (NUL)
@@ -2119,37 +2113,26 @@ Summary
  UA     e002    Unit space A (ISO-IR-8-1 064)
  UB     e003    Unit space B (ISO-IR-8-1 096)
  "3     e004    NON-SPACING UMLAUT (ISO-IR-38 201) (character part)
- "1     e005    NON-SPACING DIAERESIS WITH ACCENT (ISO-IR-70 192)
-                (character part)
- "!     e006    NON-SPACING GRAVE ACCENT (ISO-IR-103 193) (character
-                part)
- "'     e007    NON-SPACING ACUTE ACCENT (ISO-IR-103 194) (character
-                part)
- ">     e008    NON-SPACING CIRCUMFLEX ACCENT (ISO-IR-103 195)
-                (character part)
+ "1     e005    NON-SPACING DIAERESIS WITH ACCENT (ISO-IR-70 192) (character part)
+ "!     e006    NON-SPACING GRAVE ACCENT (ISO-IR-103 193) (character part)
+ "'     e007    NON-SPACING ACUTE ACCENT (ISO-IR-103 194) (character part)
+ ">     e008    NON-SPACING CIRCUMFLEX ACCENT (ISO-IR-103 195) (character part)
  "?     e009    NON-SPACING TILDE (ISO-IR-103 196) (character part)
  "-     e00a    NON-SPACING MACRON (ISO-IR-103 197) (character part)
  "(     e00b    NON-SPACING BREVE (ISO-IR-103 198) (character part)
  ".     e00c    NON-SPACING DOT ABOVE (ISO-IR-103 199) (character part)
  ":     e00d    NON-SPACING DIAERESIS (ISO-IR-103 200) (character part)
  "0     e00e    NON-SPACING RING ABOVE (ISO-IR-103 202) (character part)
- ""     e00f    NON-SPACING DOUBLE ACCUTE (ISO-IR-103 204) (character
-                part)
+ ""     e00f    NON-SPACING DOUBLE ACCUTE (ISO-IR-103 204) (character part)
  "<     e010    NON-SPACING CARON (ISO-IR-103 206) (character part)
  ",     e011    NON-SPACING CEDILLA (ISO-IR-103 203) (character part)
  ";     e012    NON-SPACING OGONEK (ISO-IR-103 206) (character part)
- "_     e013    NON-SPACING LOW LINE (ISO-IR-103 204) (character
-                part)
- "=     e014    NON-SPACING DOUBLE LOW LINE (ISO-IR-38 217) (character
-                part)
- "/     e015    NON-SPACING LONG SOLIDUS (ISO-IR-128 201) (character
-                part)
- "i     e016    GREEK NON-SPACING IOTA BELOW (ISO-IR-55 39) (character
-                part)
- "d     e017    GREEK NON-SPACING DASIA PNEUMATA (ISO-IR-55 38)
-                (character part)
- "p     e018    GREEK NON-SPACING PSILI PNEUMATA (ISO-IR-55 37)
-                (character part)
+ "_     e013    NON-SPACING LOW LINE (ISO-IR-103 204) (character part)
+ "=     e014    NON-SPACING DOUBLE LOW LINE (ISO-IR-38 217) (character part)
+ "/     e015    NON-SPACING LONG SOLIDUS (ISO-IR-128 201) (character part)
+ "i     e016    GREEK NON-SPACING IOTA BELOW (ISO-IR-55 39) (character part)
+ "d     e017    GREEK NON-SPACING DASIA PNEUMATA (ISO-IR-55 38) (character part)
+ "p     e018    GREEK NON-SPACING PSILI PNEUMATA (ISO-IR-55 37) (character part)
  ;;     e019    GREEK DASIA PNEUMATA (ISO-IR-18 92)
  ,,     e01a    GREEK PSILI PNEUMATA (ISO-IR-18 124)
  b3     e01b    GREEK SMALL LETTER MIDDLE BETA (ISO-IR-18 99)
@@ -2165,8 +2148,7 @@ Summary
  >V     e025    RIGHTWARDS VECTOR ABOVE (ISO-10646-1DIS 032/032/038/046)
  !*     e026    GREEK VARIA (ISO-10646-1DIS 032/032/042/164)
  ?*     e027    GREEK PERISPOMENI (ISO-10646-1DIS 032/032/042/165)
- J<     e028    LATIN CAPITAL LETTER J WITH CARON (lowercase:
-                000/000/001/240)
+ J<     e028    LATIN CAPITAL LETTER J WITH CARON (lowercase: 000/000/001/240)
 
 4.  CHARSETS
 
