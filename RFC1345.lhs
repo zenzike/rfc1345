@@ -55,12 +55,6 @@ Summary
    mnemonics are written in a minimal set of characters, namely the
    invariant 83 graphical characters of ISO 646, which is a kind of
    greatest common subset to be found between the majority of coded
-
-Simonsen                                                        [Page 1]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    character sets, including ASCII, national variants of the ISO 646 7-
    bit character set and various EBCDICs.  In addition, the numeric
    value of the coded representations of all these characters are the
@@ -114,12 +108,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    In the variable-length mnemonics, the character "_" is not  used as
    the first character. If it is used in a name, its presence is
    doubled.
-
-Simonsen                                                        [Page 2]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    The mnemonics can be used in several different ways for different
    purposes.  One of these is description of coded character sets, which
    is detailed in section 3.  Another is for extending a given coded
@@ -172,12 +160,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    with the Latin letters such as ETH and THORN, and the
    Danish/Norwegian/Swedish letter A WITH RING ABOVE is transliterated
    into "aa".
-
-
-Simonsen                                                        [Page 3]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
 
    After a letter, the second character signifies the following:
 
@@ -232,12 +214,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    94. So two positions for row and column and a character set
    identifier of one character would be almost as short as possible.
    The following character set identifiers are defined:
-
-Simonsen                                                        [Page 4]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
             c   GB 2312-1980
             j   JIS X0208-1990
             J   JIS X0212-1990
@@ -291,12 +267,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  )      0029    RIGHT PARENTHESIS
  *      002a    ASTERISK
  +      002b    PLUS SIGN
-
-Simonsen                                                        [Page 5]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  ,      002c    COMMA
  -      002d    HYPHEN-MINUS
  .      002e    FULL STOP
@@ -350,12 +320,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  '>     005e    CIRCUMFLEX ACCENT
  _      005f    LOW LINE
  '!     0060    GRAVE ACCENT
-
-Simonsen                                                        [Page 6]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  a      0061    LATIN SMALL LETTER A
  b      0062    LATIN SMALL LETTER B
  c      0063    LATIN SMALL LETTER C
@@ -409,12 +373,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  ''     00b4    ACUTE ACCENT
  My     00b5    MICRO SIGN
  PI     00b6    PILCROW SIGN
-
-Simonsen                                                        [Page 7]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  .M     00b7    MIDDLE DOT
  ',     00b8    CEDILLA
  1S     00b9    SUPERSCRIPT ONE
@@ -468,12 +426,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  e'     00e9    LATIN SMALL LETTER E WITH ACUTE
  e>     00ea    LATIN SMALL LETTER E WITH CIRCUMFLEX
  e:     00eb    LATIN SMALL LETTER E WITH DIAERESIS
-
-Simonsen                                                        [Page 8]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  i!     00ec    LATIN SMALL LETTER I WITH GRAVE
  i'     00ed    LATIN SMALL LETTER I WITH ACUTE
  i>     00ee    LATIN SMALL LETTER I WITH CIRCUMFLEX
@@ -527,12 +479,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  G(     011e    LATIN CAPITAL LETTER G WITH BREVE
  g(     011f    LATIN SMALL LETTER G WITH BREVE
  G.     0120    LATIN CAPITAL LETTER G WITH DOT ABOVE
-
-Simonsen                                                        [Page 9]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  g.     0121    LATIN SMALL LETTER G WITH DOT ABOVE
  G,     0122    LATIN CAPITAL LETTER G WITH CEDILLA
  g,     0123    LATIN SMALL LETTER G WITH CEDILLA
@@ -586,12 +532,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  oe     0153    LATIN SMALL LIGATURE OE
  R'     0154    LATIN CAPITAL LETTER R WITH ACUTE
  r'     0155    LATIN SMALL LETTER R WITH ACUTE
-
-Simonsen                                                       [Page 10]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  R,     0156    LATIN CAPITAL LETTER R WITH CEDILLA
  r,     0157    LATIN SMALL LETTER R WITH CEDILLA
  R<     0158    LATIN CAPITAL LETTER R WITH CARON
@@ -645,12 +585,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  ED     01b7    LATIN CAPITAL LETTER EZH
  A<     01cd    LATIN CAPITAL LETTER A WITH CARON
  a<     01ce    LATIN SMALL LETTER A WITH CARON
-
-Simonsen                                                       [Page 11]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  I<     01cf    LATIN CAPITAL LETTER I WITH CARON
  i<     01d0    LATIN SMALL LETTER I WITH CARON
  O<     01d1    LATIN CAPITAL LETTER O WITH CARON
@@ -704,12 +638,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  Y%     0389    GREEK CAPITAL LETTER ETA WITH ACUTE
  I%     038a    GREEK CAPITAL LETTER IOTA WITH ACUTE
  O%     038c    GREEK CAPITAL LETTER OMICRON WITH ACUTE
-
-Simonsen                                                       [Page 12]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  U%     038e    GREEK CAPITAL LETTER UPSILON WITH ACUTE
  W%     038f    GREEK CAPITAL LETTER OMEGA WITH ACUTE
  i3     0390    GREEK SMALL LETTER IOTA WITH ACUTE AND DIAERESIS
@@ -763,12 +691,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  r*     03c1    GREEK SMALL LETTER RHO
  *s     03c2    GREEK SMALL LETTER FINAL SIGMA
  s*     03c3    GREEK SMALL LETTER SIGMA
-
-Simonsen                                                       [Page 13]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  t*     03c4    GREEK SMALL LETTER TAU
  u*     03c5    GREEK SMALL LETTER UPSILON
  f*     03c6    GREEK SMALL LETTER PHI
@@ -822,12 +744,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  N=     041d    CYRILLIC CAPITAL LETTER EN
  O=     041e    CYRILLIC CAPITAL LETTER O
  P=     041f    CYRILLIC CAPITAL LETTER PE
-
-Simonsen                                                       [Page 14]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  R=     0420    CYRILLIC CAPITAL LETTER ER
  S=     0421    CYRILLIC CAPITAL LETTER ES
  T=     0422    CYRILLIC CAPITAL LETTER TE
@@ -881,12 +797,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  g%     0453    CYRILLIC SMALL LETTER GJE (Macedonian)
  ie     0454    CYRILLIC SMALL LETTER UKRAINIAN IE
  ds     0455    CYRILLIC SMALL LETTER DZE (Macedonian)
-
-Simonsen                                                       [Page 15]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  ii     0456    CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
  yi     0457    CYRILLIC SMALL LETTER YI (Ukrainian)
  j%     0458    CYRILLIC SMALL LETTER JE
@@ -940,12 +850,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  ?+     061f    ARABIC QUESTION MARK
  H'     0621    ARABIC LETTER HAMZA
  aM     0622    ARABIC LETTER ALEF WITH MADDA ABOVE
-
-Simonsen                                                       [Page 16]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  aH     0623    ARABIC LETTER ALEF WITH HAMZA ABOVE
  wH     0624    ARABIC LETTER WAW WITH HAMZA ABOVE
  ah     0625    ARABIC LETTER ALEF WITH HAMZA BELOW
@@ -999,12 +903,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  3a     06f3    EASTERN ARABIC-INDIC DIGIT THREE
  4a     06f4    EASTERN ARABIC-INDIC DIGIT FOUR
  5a     06f5    EASTERN ARABIC-INDIC DIGIT FIVE
-
-Simonsen                                                       [Page 17]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  6a     06f6    EASTERN ARABIC-INDIC DIGIT SIX
  7a     06f7    EASTERN ARABIC-INDIC DIGIT SEVEN
  8a     06f8    EASTERN ARABIC-INDIC DIGIT EIGHT
@@ -1058,12 +956,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  I:'    1e2e    LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
  i:'    1e2f    LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
  K'     1e30    LATIN CAPITAL LETTER K WITH ACUTE
-
-Simonsen                                                       [Page 18]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  k'     1e31    LATIN SMALL LETTER K WITH ACUTE
  K-.    1e32    LATIN CAPITAL LETTER K WITH DOT BELOW
  k-.    1e33    LATIN SMALL LETTER K WITH DOT BELOW
@@ -1090,7 +982,7 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  N_     1e48    LATIN CAPITAL LETTER N WITH LINE BELOW
  n_     1e49    LATIN SMALL LETTER N WITH LINE BELOW
  N->    1e4a    LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW
- N->    1e4b    LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW
+ n->    1e4b    LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW
  O?'    1e4c    LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
  o?'    1e4d    LATIN SMALL LETTER O WITH TILDE AND ACUTE
  O?:    1e4e    LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS
@@ -1117,16 +1009,10 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  s-.    1e63    LATIN SMALL LETTER S WITH DOT BELOW
  S'.    1e64    LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
  s'.    1e65    LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
-
-Simonsen                                                       [Page 19]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  S<.    1e66    LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
  s<.    1e67    LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
  S.-.   1e68    LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE
- S.-.   1e69    LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+ s.-.   1e69    LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
  T.     1e6a    LATIN CAPITAL LETTER T WITH DOT ABOVE
  t.     1e6b    LATIN SMALL LETTER T WITH DOT ABOVE
  T-.    1e6c    LATIN CAPITAL LETTER T WITH DOT BELOW
@@ -1176,12 +1062,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  w0     1e98    LATIN SMALL LETTER W WITH RING ABOVE
  y0     1e99    LATIN SMALL LETTER Y WITH RING ABOVE
  A-.    1ea0    LATIN CAPITAL LETTER A WITH DOT BELOW
-
-Simonsen                                                       [Page 20]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  a-.    1ea1    LATIN SMALL LETTER A WITH DOT BELOW
  A2     1ea2    LATIN CAPITAL LETTER A WITH HOOK ABOVE
  a2     1ea3    LATIN SMALL LETTER A WITH HOOK ABOVE
@@ -1235,12 +1115,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  o>!    1ed3    LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
  O>2    1ed4    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
  o>2    1ed5    LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
-
-Simonsen                                                       [Page 21]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  O>?    1ed6    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
  o>?    1ed7    LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
  O>-.   1ed8    LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
@@ -1294,12 +1168,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  1H     200a    HAIR SPACE
  -1     2010    HYPHEN
  -N     2013    EN DASH
-
-Simonsen                                                       [Page 22]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  -M     2014    EM DASH
  -3     2015    HORIZONTAL BAR
  !2     2016    DOUBLE VERTICAL LINE
@@ -1353,12 +1221,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  8s     2088    SUBSCRIPT DIGIT EIGHT
  9s     2089    SUBSCRIPT DIGIT NINE
  +s     208a    SUBSCRIPT PLUS SIGN
-
-Simonsen                                                       [Page 23]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  -s     208b    SUBSCRIPT MINUS
  =s     208c    SUBSCRIPT EQUALS SIGN
  (s     208d    SUBSCRIPT LEFT PARENTHESIS
@@ -1412,12 +1274,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  6r     2175    SMALL ROMAN NUMERAL SIX
  7r     2176    SMALL ROMAN NUMERAL SEVEN
  8r     2177    SMALL ROMAN NUMERAL EIGHT
-
-Simonsen                                                       [Page 24]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  9r     2178    SMALL ROMAN NUMERAL NINE
  ar     2179    SMALL ROMAN NUMERAL TEN
  br     217a    SMALL ROMAN NUMERAL ELEVEN
@@ -1471,12 +1327,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  DI     222c    DOUBLE INTEGRAL
  Io     222e    CONTOUR INTEGRAL
  .:     2234    THEREFORE
-
-Simonsen                                                       [Page 25]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  :.     2235    BECAUSE
  :R     2236    RATIO
  ::     2237    PROPORTION
@@ -1530,12 +1380,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  2-o    2461    CIRCLED DIGIT TWO
  3-o    2462    CIRCLED DIGIT THREE
  4-o    2463    CIRCLED DIGIT FOUR
-
-Simonsen                                                       [Page 26]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  5-o    2464    CIRCLED DIGIT FIVE
  6-o    2465    CIRCLED DIGIT SIX
  7-o    2466    CIRCLED DIGIT SEVEN
@@ -1589,12 +1433,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  15.    2496    NUMBER FIFTEEN FULL STOP
  16.    2497    NUMBER SIXTEEN FULL STOP
  17.    2498    NUMBER SEVENTEEN FULL STOP
-
-Simonsen                                                       [Page 27]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  18.    2499    NUMBER EIGHTEEN FULL STOP
  19.    249a    NUMBER NINETEEN FULL STOP
  20.    249b    NUMBER TWENTY FULL STOP
@@ -1648,12 +1486,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  V-o    24cb    CIRCLED LATIN CAPITAL LETTER V
  W-o    24cc    CIRCLED LATIN CAPITAL LETTER W
  X-o    24cd    CIRCLED LATIN CAPITAL LETTER X
-
-Simonsen                                                       [Page 28]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  Y-o    24ce    CIRCLED LATIN CAPITAL LETTER Y
  Z-o    24cf    CIRCLED LATIN CAPITAL LETTER Z
  a-o    24d0    CIRCLED LATIN SMALL LETTER A
@@ -1707,12 +1539,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  uR     2515    BOX DRAWINGS UP LIGHT AND RIGHT HEAVY
  Ur     2516    BOX DRAWINGS UP HEAVY AND RIGHT LIGHT
  UR     2517    BOX DRAWINGS HEAVY UP AND RIGHT
-
-Simonsen                                                       [Page 29]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  ul     2518    BOX DRAWINGS LIGHT UP AND LEFT
  uL     2519    BOX DRAWINGS UP LIGHT AND LEFT HEAVY
  Ul     251a    BOX DRAWINGS UP HEAVY AND LEFT LIGHT
@@ -1766,12 +1592,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  VlR    254a    BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY
  VH     254b    BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL
  FD     2571    BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT
-
-Simonsen                                                       [Page 30]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  BD     2572    BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT
  TB     2580    UPPER HALF BLOCK
  LB     2584    LOWER HALF BLOCK
@@ -1825,12 +1645,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  SU     263c    WHITE SUN WITH RAYS
  Fm     2640    FEMALE SIGN
  Ml     2642    MALE SIGN
-
-Simonsen                                                       [Page 31]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  cS     2660    BLACK SPADE SUIT
  cH     2661    WHITE HEART SUIT
  cD     2662    WHITE DIAMOND SUIT
@@ -1884,12 +1698,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  O5     3049    HIRAGANA LETTER SMALL O
  o5     304a    HIRAGANA LETTER O
  ka     304b    HIRAGANA LETTER KA
-
-Simonsen                                                       [Page 32]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  ga     304c    HIRAGANA LETTER GA
  ki     304d    HIRAGANA LETTER KI
  gi     304e    HIRAGANA LETTER GI
@@ -1943,12 +1751,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  ma     307e    HIRAGANA LETTER MA
  mi     307f    HIRAGANA LETTER MI
  mu     3080    HIRAGANA LETTER MU
-
-Simonsen                                                       [Page 33]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  me     3081    HIRAGANA LETTER ME
  mo     3082    HIRAGANA LETTER MO
  yA     3083    HIRAGANA LETTER SMALL YA
@@ -2002,12 +1804,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  Se     30bb    KATAKANA LETTER SE
  Ze     30bc    KATAKANA LETTER ZE
  So     30bd    KATAKANA LETTER SO
-
-Simonsen                                                       [Page 34]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  Zo     30be    KATAKANA LETTER ZO
  Ta     30bf    KATAKANA LETTER TA
  Da     30c0    KATAKANA LETTER DA
@@ -2061,12 +1857,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  Wi     30f0    KATAKANA LETTER WI
  We     30f1    KATAKANA LETTER WE
  Wo     30f2    KATAKANA LETTER WO
-
-Simonsen                                                       [Page 35]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  N6     30f3    KATAKANA LETTER N
  Vu     30f4    KATAKANA LETTER VU
  KA     30f5    KATAKANA LETTER SMALL KA
@@ -2120,12 +1910,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  nG     312b    BOPOMOFO LETTER NG
  gn     312c    BOPOMOFO LETTER GN
  (JU)   321c    PARENTHESIZED HANGUL JU
-
-Simonsen                                                       [Page 36]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  1c     3220    PARENTHESIZED IDEOGRAPH ONE
  2c     3221    PARENTHESIZED IDEOGRAPH TWO
  3c     3222    PARENTHESIZED IDEOGRAPH THREE
@@ -2179,12 +1963,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  d+.    feaa    ARABIC LETTER DAL FINAL FORM
  dk-    feab    ARABIC LETTER THAL ISOLATED FORM
  dk.    feac    ARABIC LETTER THAL FINAL FORM
-
-Simonsen                                                       [Page 37]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  r+-    fead    ARABIC LETTER REH ISOLATED FORM
  r+.    feae    ARABIC LETTER REH FINAL FORM
  z+-    feaf    ARABIC LETTER ZAIN ISOLATED FORM
@@ -2238,12 +2016,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  l+;    fedf    ARABIC LETTER LAM MEDIAL FORM
  l+.    fee0    ARABIC LETTER LAM FINAL FORM
  m+-    fee1    ARABIC LETTER MEEM ISOLATED FORM
-
-Simonsen                                                       [Page 38]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  m+,    fee2    ARABIC LETTER MEEM INITIAL FORM
  m+;    fee3    ARABIC LETTER MEEM MEDIAL FORM
  m+.    fee4    ARABIC LETTER MEEM FINAL FORM
@@ -2297,12 +2069,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  D1     0011    DEVICE CONTROL ONE (DC1)
  D2     0012    DEVICE CONTROL TWO (DC2)
  D3     0013    DEVICE CONTROL THREE (DC3)
-
-Simonsen                                                       [Page 39]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
  D4     0014    DEVICE CONTROL FOUR (DC4)
  NK     0015    NEGATIVE ACKNOWLEDGE (NAK)
  SY     0016    SYNCRONOUS IDLE (SYN)
@@ -2356,12 +2122,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
  "1     e005    NON-SPACING DIAERESIS WITH ACCENT (ISO-IR-70 192)
                 (character part)
  "!     e006    NON-SPACING GRAVE ACCENT (ISO-IR-103 193) (character
-
-Simonsen                                                       [Page 40]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
                 part)
  "'     e007    NON-SPACING ACUTE ACCENT (ISO-IR-103 194) (character
                 part)
@@ -2410,17 +2170,11 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
 
 4.  CHARSETS
 
-   The character mnemonics hav been used to table a number of coded
+   The character mnemonics have been used to table a number of coded
    character sets.  The coded character set names are taken if possible
    from the official ISO registration description in the ISO 2375 (ECMA)
    register, or with a number like the code page number - or with an
    indication of the language or country it is being used for - using
-
-Simonsen                                                       [Page 41]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    the country designators of ISO 3166.  For the character sets in the
    ECMA register, their ISO registration number is also given (as ISO-
    IR-xxx). Often the ISO registration number does not cover all the
@@ -2474,12 +2228,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    given in decimal, hexadecimal or octal notation; hexadecimal numbers
    are given with an "x" as the first character, and octal numbers has
    an "o" as the first character.
-
-Simonsen                                                       [Page 42]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    The following keywords are used:
 
    "&charset" has one parameter defining the name of the character set.
@@ -2533,12 +2281,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    being used for more than one character. This is an ugly convention
    but it is a sad fact of life that same code in one coded character
    set can mean different characters. "&duplicate" takes two parameters
-
-Simonsen                                                       [Page 43]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    - the first is the code to be duplicated, the other is the new
    mnemonic.
 
@@ -2592,12 +2334,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    "mnemonic+charset+intro" where "mnemonic" is written as given and
    "charset" and "intro" is specified as described below. The mnemonic
    charset "mnemonic" is a shorthand for "mnemonic+ascii+38".  The
-
-Simonsen                                                       [Page 44]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
    mnemonic charset "mnem" is a shorthand for "mnemonic+ascii+8200".
 
    It is discouraged to use mnemonics for Chinese characters of either
@@ -2650,12 +2386,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
    This has only meaning if the charset can be deducted by other
    information as specified by the relevant Internet specification.
    This information has precedence over other information on the intro.
-
-
-Simonsen                                                       [Page 45]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
 
 4.3.3  Compatibility
 
@@ -2710,12 +2440,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ?? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ?? ?? ?? ?? _
   ?? a b c d e f g h i j k l m n o p q r s t u v w x y z ?? ?? ?? ?? DT
 
-
-Simonsen                                                       [Page 46]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &charset ISO_646.irv:1983
   &rem source: ECMA registry
   &alias iso-ir-2
@@ -2769,12 +2493,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
-
-Simonsen                                                       [Page 47]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   UA A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A: O: AA fS _
   UB a b c d e f g h i j k l m n o p q r s t u v w x y z a: o: aa -N DT
 
@@ -2828,12 +2546,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
-
-Simonsen                                                       [Page 48]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   SP ! " Nb Cu % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A: O: AA '> _
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z a: o: aa '- DT
@@ -2887,12 +2599,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &alias ISO646-IT
   &g0esc x2859 &g1esc x2959 &g2esc x2a59 &g3esc x2b59
   &code 0
-
-Simonsen                                                       [Page 49]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   SP ! " Pd DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
@@ -2946,12 +2652,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   SP ! " Pd DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
   At A  B  C  D  E  F  G  H  I  J  K  L  M  N  O
   P  Q  R  S  T  U  V  W  X  Y  Z  <( // )> '> _
-
-Simonsen                                                       [Page 50]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   '! A* B* Q* D* E* F* G* Y* I* C* K* L* M* N* O*
   P* ?? R* S* T* H* W* .M X* U* Z* (! !! !) ': DT
 
@@ -3005,12 +2705,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ju a= b= c= d= e= f= g= h= i= j= k= l= m= n= o=
   p= ja r= s= t= u= z% v= %' y= z= s% je sc c% ='
   JU A= B= C= D= E= F= G= H= I= J= K= L= M= N= O=
-
-Simonsen                                                       [Page 51]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   P= JA R= S= T= U= Z% V= %" Y= Z= S% JE Sc C% DT
 
   &charset JIS_C6226-1978
@@ -3064,12 +2758,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &codex j 48 83 1 94
 
   &charset BS_viewdata
-
-Simonsen                                                       [Page 52]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &rem source: ECMA registry
   &alias iso-ir-47
   &g0esc x2856 &g1esc x2956 &g2esc x2a56 &g3esc x2b56
@@ -3123,12 +2811,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &rem source: ECMA registry
   &alias iso-ir-54
   &g0esc x2851 &g1esc x2951 &g2esc x2a51 &g3esc x2b51
-
-Simonsen                                                       [Page 53]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
@@ -3182,12 +2864,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   Cu Ct Pd %0 SE NB *1 *2 0m 0M 0o Dw Db OS fS uT UT :X -> <- -! -v =_
   &code2 2 17
   1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20.
-
-Simonsen                                                       [Page 54]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14)
   (15) (16) (17) (18) (19) (20) 1-o 2-o 3-o 4-o 5-o 6-o 7-o 8-o 9-o
   &code2 2 69
@@ -3242,12 +2918,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &codex c 55 55 1 89
   &codex c 56 87 1 94
 
-Simonsen                                                       [Page 55]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset NS_4551-1
   &rem source: ECMA registry
   &alias iso-ir-60
@@ -3300,12 +2970,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   PA HO BH NH IN NL SA ES HS HJ VS PD PU RI S2 S3
   DC P1 P2 TS CC MW SG EG SS GC SC CI ST OC PM AC
   NS !I Ct Pd DO Ye Nb SE Cu '6 "6 << <- -! -> -v
-
-Simonsen                                                       [Page 56]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   DG +- 2S 3S *X My PI .M -: '9 "9 >> 14 12 34 ?I
   "1 "! "' "> "? "- "( ". ": ?? "0 ", ?? "" "; "<
   -M 1S Rg Co TM Md ?? ?? ?? ?? ?? ?? 18 38 58 78
@@ -3359,12 +3023,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &charset MSZ_7795.3
   &rem source: ECMA registry
   &alias iso-ir-86
-
-Simonsen                                                       [Page 57]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias ISO646-HU
   &g0esc x2869 &g1esc x2969 &g2esc x2a69 &g3esc x2b69
   &alias hu
@@ -3418,12 +3076,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
      a6 A6 i6 I6 u6 U6 e6 E6 o6 O6 Ka Ga Ki Gi Ku
   Gu Ke Ge Ko Go Sa Za Si Zi Su Zu Se Ze So Zo Ta
   Da Ti Di TU Tu Du Te De To Do Na Ni Nu Ne No Ha
-
-Simonsen                                                       [Page 58]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   Ba Pa Hi Bi Pi Hu Bu Pu He Be Pe Ho Bo Po Ma Mi
   Mu Me Mo YA Ya YU Yu YO Yo Ra Ri Ru Re Ro WA Wa
   Wi We Wo N6 Vi KA KE
@@ -3477,12 +3129,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   1+ 3+ 0+ ?? ?? ?? ?? ?? ?? ?? ?? (! !! !) '- DT
 
   &charset iso-ir-90
-
-Simonsen                                                       [Page 59]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &rem source: ECMA registry
   &g0esc x286c &g1esc x296c &g2esc x2a6c &g3esc x2b6c
   &code 0
@@ -3536,12 +3182,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &charset JIS_C6229-1984-b
   &rem source: ECMA registry
   &alias iso-ir-92
-
-Simonsen                                                       [Page 60]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias ISO646-JP-OCR-B
   &g0esc x286e &g1esc x296e &g2esc x2a6e &g3esc x2b6e
   &alias jp-ocr-b
@@ -3594,12 +3234,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? DT
-
-
-Simonsen                                                       [Page 61]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
 
   &charset JIS_C6229-1984-kana
   &rem source: ECMA registry
@@ -3654,12 +3288,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
                   y y' Y Y' c c' C C' l l' L L' n n' N N' r r' R R'
                   s s' S S' z z' Z Z'
   &comb2 "( SP '( a a( A A( g g( G G(                     u u( U U(
-
-Simonsen                                                       [Page 62]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &comb2 "< SP '< c c< C C< d d< D D< e e< E E< l l< L L< n n< N N<
                   r r< R R< s s< S S< t t< T T< z z< Z Z<
   &comb2 ", SP ', c c, C C, g g, G G, k k, K K, l l, L L, n n, N N,
@@ -3713,12 +3341,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
-
-Simonsen                                                       [Page 63]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <( // )> '> _
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z (! !! !) '? DT
@@ -3772,12 +3394,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &comb2 ">       a a> A A> e e> E E> i i> I I> o o> O O> u u> U U>
                   y y> Y Y> c c> C C> g g> G G> h h> H H> j j> J J>
                   s s> S S> w w> W W>
-
-Simonsen                                                       [Page 64]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &comb2 ": SP ': a a: A A: e e: E E: i i: I I: o o: O O: u u: U U:
                   y y: Y Y:
   &comb2 ". SP '. c c. C C. e e. E E. g g. G G.      I I. z z. Z Z.
@@ -3831,12 +3447,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   DG a; '; r, '' i? l, '< ', s< e- g, t/ NG z< ng
   A- A' A> A? A: AA AE I; C< E' E; E: E. I' I> I-
   D/ N, O- K, O> O? O: *X O/ U; U' U> U: U? U- ss
-
-Simonsen                                                       [Page 65]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   a- a' a> a? a: aa ae i; c< e' e; e: e. i' i> i-
   d/ n, o- k, o> o? o: -: o/ u; u' u> u: u? u- '.
 
@@ -3890,12 +3500,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &rem source: ECMA registry
   &alias iso-ir-123
   &g1esc x2d45 &g2esc x2e45 &g3esc x2f45
-
-Simonsen                                                       [Page 66]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
@@ -3949,12 +3553,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
-
-Simonsen                                                       [Page 67]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <( // )> '> _
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z (! !! !) '? DT
   PA HO BH NH IN NL SA ES HS HJ VS PD PU RI S2 S3
@@ -4008,12 +3606,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &charset ISO_8859-8:1988
   &rem source: ECMA registry
   &alias iso-ir-138
-
-Simonsen                                                       [Page 68]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &g1esc x2d48 &g2esc x2e48 &g3esc x2f48
   &alias ISO_8859-8
   &alias ISO-8859-8
@@ -4067,12 +3659,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   z< a b c d e f g h i j k l m n o p q r s t u v w x y z s< d/ c' c< DT
 
   &charset ISO_6937-2-add
-
-Simonsen                                                       [Page 69]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &rem source: ECMA registry and ISO 6937-2:1983
   &alias iso-ir-142
   &g1esc x2d4a &g2esc x2e4a &g3esc x2f4a
@@ -4126,12 +3712,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   '< =3 AN OR (U )U (C )C <= => .: :. (- -) (_ )_
   In Io 00 NB dP ?1 ?2 ?- ?= =< != >= <> NO FA TE
   A+ OS PP G* D* -T -V -L H* </ /> L* 1' 2' C* -+
-
-Simonsen                                                       [Page 70]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   P* 2S S* *X 3S U* F* .M Q* W* /0 >V RT f( 0( +-
   DG a* b* g* d* e* z* y* h* i* k* l* m* n* c* %0
   p* r* s* -: t* u* f* x* q* w* /- <- -! -> -v '-
@@ -4186,12 +3766,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   z% a= b= c= d= e= f= g= h= i= j% k= l= m= n= o=
   p= lj r= s= t= u= v= nj dz ds z= s% g% kj c% DT
 
-Simonsen                                                       [Page 71]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset ISO_8859-9:1989
   &rem source: ECMA registry
   &alias iso-ir-148
@@ -4244,12 +3818,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &codex k 4 4 1 94
   &code2 5 1
   1r 2r 3r 4r 5r 6r 7r 8r 9r ar br cr
-
-Simonsen                                                       [Page 72]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &code2 5 16
   1R 2R 3R 4R 5R 6R 7R 8R 9R aR bR cR
   &code2 5 33
@@ -4303,12 +3871,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   a= b= v= g= d= e= io z% z= i= j= k= l= m= n= o= p=
   r= s= t= u= f= h= c= c% s% sc =' y= %' je ju ja
   &codex k 16 40 1 94
-
-Simonsen                                                       [Page 73]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &codex k 42 93 1 94
 
   &charset greek-ccitt
@@ -4362,12 +3924,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &alias iso-ir-153
   &g1esc x2d4f &g2esc x2e4f &g3esc x2f4f
   &code 0
-
-Simonsen                                                       [Page 74]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
@@ -4420,12 +3976,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   vv hh dr dl ur ul vr vl dh uh vh .S :S ?S ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
-
-
-Simonsen                                                       [Page 75]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
 
   &charset latin6
   &rem source: ECMA registry
@@ -4480,12 +4030,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   -o -a Co Rg
   &code2 6 65
   A% E% Y% I% J* ?? O% ?? U% V* ?? W%
-
-Simonsen                                                       [Page 76]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &code2 6 81
   a% e% y% i% j* i3 o% *s u% v* u3 w%
   &code2 7 34
@@ -4540,12 +4084,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &duplicate 123 a:
   &duplicate 124 o:
 
-Simonsen                                                       [Page 77]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset dk-us
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
@@ -4598,12 +4136,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <( // )> '> _
-
-Simonsen                                                       [Page 78]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z (! !! !) '? DT
   PA HO BH NH IN NL SA ES HS HJ VS PD PU RI S2 S3
   DC P1 P2 TS CC MW SG EG SS GC SC CI ST OC PM AC
@@ -4657,12 +4189,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &alias cp037
   &alias ebcdic-cp-us
   &alias ebcdic-cp-ca
-
-Simonsen                                                       [Page 79]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias ebcdic-cp-wt
   &alias ebcdic-cp-nl
   &code 0
@@ -4716,12 +4242,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   SP NS a> (! a! a' a? aa c, n? A: .  <  (  +  !
   &  e' e> e: e! i' i> i: i! '? U: DO *  )  ;  '>
   -  /  A> <( A! A' A? AA C, N? o: ,  %  _  >  ?
-
-Simonsen                                                       [Page 80]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   o/ E' E> E: E! I' I> I: I! '! :  Nb SE '  =  "
   O/ a  b  c  d  e  f  g  h  i  << >> d- y' th +-
   DG j  k  l  m  n  o  p  q  r  -a -o ae ', AE Cu
@@ -4776,12 +4296,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   // ?? S  T  U  V  W  X  Y  Z  ?? ?? ?? ?? ?? ??
   0  1  2  3  4  5  6  7  8  9  ?? ?? ?? ?? ?? DT
 
-Simonsen                                                       [Page 81]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset IBM277
   &rem source: IBM NLS RM Vol2 SE09-8002-01, March 1990
   &alias EBCDIC-CP-DK
@@ -4834,12 +4348,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
-
-Simonsen                                                       [Page 82]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   SP NS a> a: (! a' a? aa // n? DG .  <  (  +  !
@@ -4893,12 +4401,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   O/ a  b  c  d  e  f  g  h  i  << >> d- y' th +-
   DG j  k  l  m  n  o  p  q  r  -a -o ae ', AE Cu
   My ': s  t  u  v  w  x  y  z  !I ?I D- Y' TH Rg
-
-Simonsen                                                       [Page 83]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   Ct Pd Ye .M Co SE PI 14 12 34 '> !  '- '? '' *X
   (! A  B  C  D  E  F  G  H  I  -- o> o: o! o' o?
   !) J  K  L  M  N  O  P  Q  R  1S u> u: u! u' y:
@@ -4952,12 +4454,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &charset IBM297
   &rem source: IBM NLS RM Vol2 SE09-8002-01, March 1990
   &alias cp297
-
-Simonsen                                                       [Page 84]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias ebcdic-cp-fr
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
@@ -5011,12 +4507,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   SP A* B* G* D* E* Z* Y* H* I* <( .  <  (  +  !
   &  K* L* M* N* C* O* P* R* S* )> DO *  )  ;  '>
-
-Simonsen                                                       [Page 85]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   -  /  T* U* F* X* Q* W* ?? ?? ?? ,  %  _  >  ?
   ?? A% E% Y% ?? I% O% U% W% '! :  Pd SE '  =  "
   A: a  b  c  d  e  f  g  h  i  a* b* g* d* e* z*
@@ -5069,12 +4559,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   Uh dH Dh Ur uR dR Dr Vh vH ul dr FB LB lB RB TB
   a* b* G* p* S* s* m* t* F* H* W* d* 00 /0 e* (U
   =3 +- >= =< Iu Il -: ?2 Ob .M Sb RT nS 2S fS NS
-
-
-Simonsen                                                       [Page 86]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
 
   &charset IBM500
   &rem source: IBM NLS RM Vol2 SE09-8002-01, March 1990
@@ -5129,12 +4613,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <( // )> '> _
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z (! !! !) '? DT
   C, u: e' a> a: a! A% c, e> e: e! i: i> E% A: Y%
-
-Simonsen                                                       [Page 87]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   I% ?? O% o> o: U% u> u! W% O: U: a% Pd e% y% i%
   j* i3 o% u% A* B* G* D* E* Z* Y* 12 H* I* << >>
   .S :S ?S vv vl K* L* N* M* VL VV LD UL C* O* dl
@@ -5188,12 +4666,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
-
-Simonsen                                                       [Page 88]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   SP ! " Nb DO % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
   At A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <( // )> '> _
   '! a b c d e f g h i j k l m n o p q r s t u v w x y z (! !! !) '? DT
@@ -5247,12 +4719,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
 
   &charset IBM862
   &rem source: IBM NLS RM Vol2 SE09-8002-01, March 1990
-
-Simonsen                                                       [Page 89]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias cp862
   &alias 862
   &code 0
@@ -5307,12 +4773,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ++  f+. q+. k+, l+. m+, n+. h+, w+  j+  y+, dd  m+. i+. i+  m+
   3+; 3+  n+  h+  h+; j+. y+. f+  q+  lM- lM. l+  k+  y+  fS  NS
 
-Simonsen                                                       [Page 90]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset IBM865
   &rem source: IBM DOS 3.3 Ref (Abridged), 94X9575 (Feb 1987)
   &alias cp865
@@ -5365,12 +4825,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ?? ?? ?? ?? ?? ?? A% ?? .M NO BB 9' '9 E% -M Y%
   I% J* O% ?? ?? U% V* Co W% 2S 3S a% Pd e% y% i%
   j* i3 o% u% A* B* G* D* E* Z* Y* 12 H* I* << >>
-
-Simonsen                                                       [Page 91]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   .S :S ?S vv vl K* L* M* N* VL VV LD UL C* O* dl
   ur uh dh vr hh vh P* R* UR DR UH DH VR HH VH S*
   T* U* F* X* Q* W* a* b* g* ul dr FB LB d* e* TB
@@ -5424,12 +4878,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
 
   &charset IBM880
   &rem source: IBM NLS RM Vol2 SE09-8002-01, March 1990
-
-Simonsen                                                       [Page 92]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   &alias cp880
   &alias EBCDIC-Cyrillic
   &code 0
@@ -5483,12 +4931,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
-
-Simonsen                                                       [Page 93]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
 
@@ -5542,12 +4984,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
-
-Simonsen                                                       [Page 94]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   SP  NS  ,+  ;+  ?+  aH  a+  a+. ??  b+  <(  .   <   (   +   !
   &   b+, p+  ??  tm  t+  t+, ??  ??  tk  )>  DO  *   )   ;   '>
   -   /   tk, g+  g+, ??  ??  hk  hk, x+  '!  ,   %   _   >   ?
@@ -5602,12 +5038,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   O: ?? S  T  U  V  W  X  Y  Z  ?? ?? ?? ?? ?? ??
   0  1  2  3  4  5  6  7  8  9  ?? ?? ?? ?? ?? DT
 
-Simonsen                                                       [Page 95]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
-
   &charset EBCDIC-AT-DE-A
   &rem source: IBM 3270 Char Set Ref Ch 10, GA27-2837-9, April 1987
   &code 0
@@ -5660,12 +5090,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   -  /  ?? ?? ?? ?? ?? ?? ?? ?? o/ ,  %  _  >  ?
   ?? ?? ?? ?? ?? ?? ?? ?? ?? '! :  AE O/ '  =  "
   ?? a  b  c  d  e  f  g  h  i  ?? ?? ?? ?? ?? ??
-
-Simonsen                                                       [Page 96]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   ?? j  k  l  m  n  o  p  q  r  ?? ?? ?? ?? ?? ??
   ?? u: s  t  u  v  w  x  y  z  ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
@@ -5719,12 +5143,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
-
-Simonsen                                                       [Page 97]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   SP ?? ?? ?? ?? ?? ?? ?? ?? ?? o: .  <  (  +  !!
@@ -5778,12 +5196,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   a! A  B  C  D  E  F  G  H  I  ?? ?? ?? ?? ?? ??
   e! J  K  L  M  N  O  P  Q  R  ?? ?? ?? ?? ?? ??
   c, ?? S  T  U  V  W  X  Y  Z  ?? ?? ?? ?? ?? ??
-
-Simonsen                                                       [Page 98]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   0  1  2  3  4  5  6  7  8  9  ?? ?? ?? ?? ?? DT
 
   &charset EBCDIC-PT
@@ -5837,12 +5249,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &  ?? ?? ?? ?? ?? ?? ?? ?? ?? !  Pt *  )  ;  NO
   -  /  ?? ?? ?? ?? ?? ?? ?? ?? BB ,  %  _  >  ?
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? :  N? At '  =  n?
-
-Simonsen                                                       [Page 99]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   ?? a  b  c  d  e  f  g  h  i  ?? ?? ?? ?? ?? ??
   ?? j  k  l  m  n  o  p  q  r  ?? ?? ?? ?? ?? ??
   ?? ?? s  t  u  v  w  x  y  z  ?? ?? ?? ?? ?? ??
@@ -5896,12 +5302,6 @@ RFC 1345          Character Mnemonics & Character Sets         June 1992
   &rem source: IBM 3270 Char Set Ref Ch 10, GA27-2837-9, April 1987
   &code 0
   NU SH SX EX ET EQ AK BL BS HT LF VT FF CR SO SI
-
-Simonsen                                                      [Page 100]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
   DL D1 D2 D3 D4 NK SY EB CN EM SB EC FS GS RS US
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
   ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??
@@ -5953,12 +5353,6 @@ ACKNOWLEDGEMENTS
 
 
 
-
-
-
-Simonsen                                                      [Page 101]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
 
 
 REFERENCES
@@ -6014,12 +5408,6 @@ REFERENCES
 
 
 
-
-Simonsen                                                      [Page 102]
-
-RFC 1345          Character Mnemonics & Character Sets         June 1992
-
-
 Author's Address
 
    Keld Simonsen
@@ -6073,6 +5461,3 @@ Author's Address
 
 
 
-
-Simonsen                                                      [Page 103]
-
